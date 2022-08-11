@@ -1,6 +1,5 @@
 {
   "data": [
-    
     {
       "id": 1019,
       "yearCode": "2020",
@@ -20,7 +19,7 @@
       },
       "balance": 67783
     },
-   
+
     {
       "id": 1022,
       "yearCode": "2020",
@@ -42,7 +41,7 @@
     },
     {
       "id": 1023,
-      "yearCode": "2020",
+      "yearCode": "2021",
       "name": "Maryann Royster",
       "country": {
         "name": "Belarus",
@@ -80,7 +79,7 @@
     },
     {
       "id": 1025,
-      "yearCode": "2020",
+      "yearCode": "2021",
       "name": "Allene Iturbide",
       "country": {
         "name": "Italy",
@@ -97,10 +96,10 @@
       },
       "balance": 40137
     },
-    
+
     {
       "id": 1027,
-      "yearCode": "2020",
+      "yearCode": "2021",
       "name": "Ezekiel Chui",
       "country": {
         "name": "Ireland",
@@ -117,6 +116,5 @@
       },
       "balance": 60454
     }
-
   ]
 }
