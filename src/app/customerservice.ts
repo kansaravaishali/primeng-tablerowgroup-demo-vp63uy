@@ -4,12 +4,15 @@ import { Customer } from './customer';
 
 @Injectable()
 export class CustomerService {
-    constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {}
 
-    getCustomersMedium() {
-        return this.http.get<any>('assets/customers-medium.json')
-            .toPromise()
-            .then(res => <Customer[]>res.data)
-            .then(data => { return data; });
-    }
+  getCustomersMedium() {
+    return this.http
+      .get<any>('assets/customers-small.json')
+      .toPromise()
+      .then((res) => <Customer[]>res.data)
+      .then((data) => {
+        return data;
+      });
+  }
 }

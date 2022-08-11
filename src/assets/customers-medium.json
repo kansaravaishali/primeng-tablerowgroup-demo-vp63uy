@@ -362,63 +362,6 @@
       "balance": 12237
     },
     {
-      "id": 1035,
-      "yearCode": "2021",
-      "name": "Solange Shinko",
-      "country": {
-        "name": "Cameroon",
-        "code": "cm"
-      },
-      "company": "Mosocco, Ronald A",
-      "date": "2015-02-12",
-      "status": "qualified",
-      "verified": true,
-      "activity": 32,
-      "representative": {
-        "name": "Onyama Limba",
-        "image": "onyamalimba.png"
-      },
-      "balance": 34072
-    },
-    {
-      "id": 1036,
-      "yearCode": "2021",
-      "name": "Jose Stockham",
-      "country": {
-        "name": "Italy",
-        "code": "it"
-      },
-      "company": "Tri State Refueler Co",
-      "date": "2018-04-25",
-      "status": "qualified",
-      "verified": true,
-      "activity": 77,
-      "representative": {
-        "name": "Amy Elsner",
-        "image": "amyelsner.png"
-      },
-      "balance": 94909
-    },
-    {
-      "id": 1037,
-      "yearCode": "2021",
-      "name": "Rozella Ostrosky",
-      "country": {
-        "name": "Venezuela",
-        "code": "ve"
-      },
-      "company": "Parkway Company",
-      "date": "2016-02-27",
-      "status": "unqualified",
-      "verified": true,
-      "activity": 66,
-      "representative": {
-        "name": "Amy Elsner",
-        "image": "amyelsner.png"
-      },
-      "balance": 57245
-    },
-    {
       "id": 1038,
       "yearCode": "2021",
       "name": "Valentine Gillian",
@@ -569,44 +512,6 @@
         "image": "onyamalimba.png"
       },
       "balance": 52343
-    },
-    {
-      "id": 1046,
-      "yearCode": "2020",
-      "name": "Jina Briddick",
-      "country": {
-        "name": "Mexico",
-        "code": "mx"
-      },
-      "company": "Grace Pastries Inc",
-      "date": "2018-02-19",
-      "status": "unqualified",
-      "verified": false,
-      "activity": 97,
-      "representative": {
-        "name": "Xuxue Feng",
-        "image": "xuxuefeng.png"
-      },
-      "balance": 53966
-    },
-    {
-      "id": 1047,
-      "yearCode": "2020",
-      "name": "Kanisha Waycott",
-      "country": {
-        "name": "Ecuador",
-        "code": "ec"
-      },
-      "company": "Schroer, Gene E Esq",
-      "date": "2019-11-27",
-      "status": "new",
-      "verified": false,
-      "activity": 80,
-      "representative": {
-        "name": "Xuxue Feng",
-        "image": "xuxuefeng.png"
-      },
-      "balance": 9920
     },
     {
       "id": 1048,
